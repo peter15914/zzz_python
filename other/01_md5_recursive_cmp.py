@@ -15,7 +15,7 @@ def print_help():
         '       if filter file is given, only files from filter file are used to create hashes\n'
         '{name} -compare <md5-file for temporary directory> <md5-file for main backup directory>\n'
         '       compare 2 files with md5-hashes. '
-        'all files int temporary directory must exist in main backup directory\n'
+        'all files in temporary directory must exist in main backup directory\n'
         .format(name=script_name))
 
 
@@ -48,13 +48,15 @@ def create_md5_hashes(path, filter_file=''):
 def get_md5_set(file_name, allow_dupes=True):
     ret_lines = set()
     with open(file_name, "r") as f1:
-        for buf_list in [line.strip().split('\t') for line in f1]:
+        for buf_list in [line.strip().split(None, 1) for line in f1]:
             if len(buf_list) >= 2:
                 res_line = buf_list[0] + "###" + os.path.split(buf_list[-1])[-1]
                 if not allow_dupes and res_line in ret_lines:
                     print("!!!Duplicate in", file_name, res_line)
                     sys.exit()
                 ret_lines.add(res_line)
+            else:
+                print("Problem in get_md5_set()" + str(buf_list))
 
     return ret_lines
 
