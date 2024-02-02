@@ -1,0 +1,9 @@
+				{
+					"type": "databaseTransferProducer",
+					"location": {
+						"type": "query",
+						"project": "General",
+						"dataSource": "postgres-jdbc-175daaebaa0-4022b75c983db151",
+						"query": "with time_seconds_from_start_ACTCOD_2 as (select datp_dt_dado as depth_, datp_md_valor as value_ from dado_tempo_perf where cvpe_cd_curva = 2)\r\nselect extract(epoch from (depth_ - (select min(depth_) from time_seconds_from_start_ACTCOD_2))) as diff_sec, value_ from time_seconds_from_start_ACTCOD_2 order by depth_\r\n"
+					}
+				},

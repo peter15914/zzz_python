@@ -1,0 +1,2027 @@
+[
+	{
+		"codigo_curva" : 73,
+		"nome_curva" : "Tempo Profundidade Medida",
+		"mnemonico_contratada" : "PMMud",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "s                        "
+	},
+	{
+		"codigo_curva" : 184,
+		"nome_curva" : "Profundidade vertical do poço",
+		"mnemonico_contratada" : "TVD",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 185,
+		"nome_curva" : "Profundidade vertical do poço em cota",
+		"mnemonico_contratada" : "TVDSS",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 186,
+		"nome_curva" : "Profundidade medida de retorno da lama",
+		"mnemonico_contratada" : "MDLAG",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 187,
+		"nome_curva" : "Profundidade vertical de retorno da lama",
+		"mnemonico_contratada" : "TVDLAG",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 188,
+		"nome_curva" : "Profundidade vertical de retorno da lama em cota",
+		"mnemonico_contratada" : "VSSLAG",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 189,
+		"nome_curva" : "Taxa de perfuração",
+		"mnemonico_contratada" : "ROP",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m\/h                      "
+	},
+	{
+		"codigo_curva" : 190,
+		"nome_curva" : "Tempo de retorno da lama (minutos)",
+		"mnemonico_contratada" : "LAGTIM",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "min                      "
+	},
+	{
+		"codigo_curva" : 191,
+		"nome_curva" : "Peso suspenso no gancho",
+		"mnemonico_contratada" : "WOH",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "klb                      "
+	},
+	{
+		"codigo_curva" : 192,
+		"nome_curva" : "Peso suspenso no gancho mínimo",
+		"mnemonico_contratada" : "WOHMIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "klb                      "
+	},
+	{
+		"codigo_curva" : 193,
+		"nome_curva" : "Peso suspenso no gancho máximo",
+		"mnemonico_contratada" : "WOHMAX",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "klb                      "
+	},
+	{
+		"codigo_curva" : 194,
+		"nome_curva" : "Peso sobre a broca",
+		"mnemonico_contratada" : "WOB",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "klb                      "
+	},
+	{
+		"codigo_curva" : 195,
+		"nome_curva" : "Peso sobre a broca mínimo",
+		"mnemonico_contratada" : "WOBMIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "klb                      "
+	},
+	{
+		"codigo_curva" : 196,
+		"nome_curva" : "Peso sobre a broca máximo",
+		"mnemonico_contratada" : "WOBMAX",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "klb                      "
+	},
+	{
+		"codigo_curva" : 197,
+		"nome_curva" : "Torque",
+		"mnemonico_contratada" : "TORQUE",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "lb.ft                    "
+	},
+	{
+		"codigo_curva" : 198,
+		"nome_curva" : "Torque mínimo",
+		"mnemonico_contratada" : "TRQMIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "lb.ft                    "
+	},
+	{
+		"codigo_curva" : 199,
+		"nome_curva" : "Torque máximo",
+		"mnemonico_contratada" : "TRQMAX",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "lb.ft                    "
+	},
+	{
+		"codigo_curva" : 200,
+		"nome_curva" : "Rotações por minuto da coluna de perfuração",
+		"mnemonico_contratada" : "RPM",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "rpm                      "
+	},
+	{
+		"codigo_curva" : 201,
+		"nome_curva" : "Rotações por minuto da broca (com motor de fundo ou turbina)",
+		"mnemonico_contratada" : "BITRPM",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "rpm                      "
+	},
+	{
+		"codigo_curva" : 202,
+		"nome_curva" : "Pressão de injeção",
+		"mnemonico_contratada" : "SPP",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "psi                      "
+	},
+	{
+		"codigo_curva" : 203,
+		"nome_curva" : "Pressão de injeção mínimo",
+		"mnemonico_contratada" : "SPPMIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "psi                      "
+	},
+	{
+		"codigo_curva" : 204,
+		"nome_curva" : "Pressão de injeção máximo",
+		"mnemonico_contratada" : "SPPMAX",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "psi                      "
+	},
+	{
+		"codigo_curva" : 205,
+		"nome_curva" : "Pressão no anular (sistema fechado - com MPD). Sem MPD, deixar nulo",
+		"mnemonico_contratada" : "CASPRS",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "psi                      "
+	},
+	{
+		"codigo_curva" : 206,
+		"nome_curva" : "Pressão no anular mínimo (sistema fechado - com MPD). Sem MPD, deixar nulo",
+		"mnemonico_contratada" : "CASMIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "psi                      "
+	},
+	{
+		"codigo_curva" : 207,
+		"nome_curva" : "Pressão no anular máximo (sistema fechado - com MPD). Sem MPD, deixar nulo",
+		"mnemonico_contratada" : "CASMAX",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "psi                      "
+	},
+	{
+		"codigo_curva" : 208,
+		"nome_curva" : "Pressão na linha de Kill",
+		"mnemonico_contratada" : "KILPRS",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "psi                      "
+	},
+	{
+		"codigo_curva" : 209,
+		"nome_curva" : "Pressão na linha de Choke",
+		"mnemonico_contratada" : "CHKPRS",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "psi                      "
+	},
+	{
+		"codigo_curva" : 210,
+		"nome_curva" : "Vazão de entrada (bombeio)",
+		"mnemonico_contratada" : "FLWIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "gpm                      "
+	},
+	{
+		"codigo_curva" : 211,
+		"nome_curva" : "Fluxo de saída qualitativo (flow line %)",
+		"mnemonico_contratada" : "FLWOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "%                        "
+	},
+	{
+		"codigo_curva" : 212,
+		"nome_curva" : "Densidade equivalente de circulação",
+		"mnemonico_contratada" : "ECD",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "lb\/gal                   "
+	},
+	{
+		"codigo_curva" : 213,
+		"nome_curva" : "Densidade equivalente de circulação mínima",
+		"mnemonico_contratada" : "ECDMIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "lb\/gal                   "
+	},
+	{
+		"codigo_curva" : 214,
+		"nome_curva" : "Densidade equivalente de circulação máxima",
+		"mnemonico_contratada" : "ECDMAX",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "lb\/gal                   "
+	},
+	{
+		"codigo_curva" : 215,
+		"nome_curva" : "Expoente-D",
+		"mnemonico_contratada" : "DEXP",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "Adim                     "
+	},
+	{
+		"codigo_curva" : 216,
+		"nome_curva" : "Expoente-D corrigido",
+		"mnemonico_contratada" : "DEXPCO",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "Adim                     "
+	},
+	{
+		"codigo_curva" : 217,
+		"nome_curva" : "Volume dos tanques ativos",
+		"mnemonico_contratada" : "ACTVOL",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "bbl                      "
+	},
+	{
+		"codigo_curva" : 218,
+		"nome_curva" : "Volume de todos os tanques da sonda (com sensores)",
+		"mnemonico_contratada" : "TOTVOL",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "bbl                      "
+	},
+	{
+		"codigo_curva" : 219,
+		"nome_curva" : "Volume do poço aberto",
+		"mnemonico_contratada" : "OPHOLV",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "bbl                      "
+	},
+	{
+		"codigo_curva" : 220,
+		"nome_curva" : "Volume do poço revestido",
+		"mnemonico_contratada" : "CSHOLV",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "bbl                      "
+	},
+	{
+		"codigo_curva" : 221,
+		"nome_curva" : "Volume interno do Riser",
+		"mnemonico_contratada" : "RISVOL",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "bbl                      "
+	},
+	{
+		"codigo_curva" : 222,
+		"nome_curva" : "Volume externo da coluna de perfuração (BHA+DP: Considerar o volume externo: OD)",
+		"mnemonico_contratada" : "OSTVOL",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "bbl                      "
+	},
+	{
+		"codigo_curva" : 223,
+		"nome_curva" : "Volume anular da coluna de perfuração (BHA+DP: Considerar o volume anular: OD - ID)",
+		"mnemonico_contratada" : "ASTVOL",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "bbl                      "
+	},
+	{
+		"codigo_curva" : 224,
+		"nome_curva" : "Volume acumulado de poço aberto (Calculado de todas as fases).",
+		"mnemonico_contratada" : "OPHLVC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "bbl                      "
+	},
+	{
+		"codigo_curva" : 225,
+		"nome_curva" : "ACTCOD - *** Estado da perfuração",
+		"mnemonico_contratada" : "ACTCOD",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : null
+	},
+	{
+		"codigo_curva" : 226,
+		"nome_curva" : "BLKPOS - Posicao do Bloco",
+		"mnemonico_contratada" : "BLKPOS",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 227,
+		"nome_curva" : "Profundidade vertical de retorno da lama",
+		"mnemonico_contratada" : "TVDLAG",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 228,
+		"nome_curva" : "Profundidade vertical de retorno da lama em cota",
+		"mnemonico_contratada" : "VSSLAG",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 229,
+		"nome_curva" : "Gás total",
+		"mnemonico_contratada" : "TGAS",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 230,
+		"nome_curva" : "Gás total mínimo",
+		"mnemonico_contratada" : "TGMIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 231,
+		"nome_curva" : "Gás total máximo",
+		"mnemonico_contratada" : "TGMAX",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 232,
+		"nome_curva" : "Somatório da Cromatografia (C1+2C2+3C3+4C4+5C5...)",
+		"mnemonico_contratada" : "CRMGAS",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 233,
+		"nome_curva" : "Metano",
+		"mnemonico_contratada" : "C1",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 234,
+		"nome_curva" : "Etano",
+		"mnemonico_contratada" : "C2",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 235,
+		"nome_curva" : "Propano",
+		"mnemonico_contratada" : "C3",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 236,
+		"nome_curva" : "iso-Butabo",
+		"mnemonico_contratada" : "IC4",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 237,
+		"nome_curva" : "normal-Butano",
+		"mnemonico_contratada" : "NC4",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 238,
+		"nome_curva" : "iso-Pentano",
+		"mnemonico_contratada" : "IC5",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 239,
+		"nome_curva" : "normal-Pentano",
+		"mnemonico_contratada" : "NC5",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 240,
+		"nome_curva" : "Hexano",
+		"mnemonico_contratada" : "C6",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 241,
+		"nome_curva" : "Heptano",
+		"mnemonico_contratada" : "C7",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 242,
+		"nome_curva" : "Octano",
+		"mnemonico_contratada" : "C8",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 243,
+		"nome_curva" : "H2S na linha de gás",
+		"mnemonico_contratada" : "H2SLIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 244,
+		"nome_curva" : "H2S na área das peneiras",
+		"mnemonico_contratada" : "H2SSHK",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 245,
+		"nome_curva" : "H2S na sala dos tanques",
+		"mnemonico_contratada" : "H2STNK",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 246,
+		"nome_curva" : "H2S - outro (canal disponível)",
+		"mnemonico_contratada" : "H2SOTH",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 247,
+		"nome_curva" : "CO2 na linha de gás",
+		"mnemonico_contratada" : "CO2LIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 248,
+		"nome_curva" : "CO2 - outro (canal disponível)",
+		"mnemonico_contratada" : "CO2OTH",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 249,
+		"nome_curva" : "Peso específico da lama na entrada",
+		"mnemonico_contratada" : "MWIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "lb\/gal                   "
+	},
+	{
+		"codigo_curva" : 250,
+		"nome_curva" : "Peso específico da lama na saída",
+		"mnemonico_contratada" : "MWOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "lb\/gal                   "
+	},
+	{
+		"codigo_curva" : 251,
+		"nome_curva" : "Temperatura da lama na entrada",
+		"mnemonico_contratada" : "TMPIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "degC                     "
+	},
+	{
+		"codigo_curva" : 252,
+		"nome_curva" : "Temperatura da lama na saída",
+		"mnemonico_contratada" : "TMPOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "degC                     "
+	},
+	{
+		"codigo_curva" : 253,
+		"nome_curva" : "Condutividade da lama na entrada",
+		"mnemonico_contratada" : "CNDIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "mS\/cm                    "
+	},
+	{
+		"codigo_curva" : 254,
+		"nome_curva" : "Condutividade da lama na saída",
+		"mnemonico_contratada" : "CNDOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "mS\/cm                    "
+	},
+	{
+		"codigo_curva" : 255,
+		"nome_curva" : "ACTCOD - *** Estado da perfuração",
+		"mnemonico_contratada" : "ACTCOD",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : null
+	},
+	{
+		"codigo_curva" : 346,
+		"nome_curva" : "Profundidade medida do poço",
+		"mnemonico_contratada" : "MD",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 347,
+		"nome_curva" : "Profundidade vertical do poço",
+		"mnemonico_contratada" : "TVD",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 348,
+		"nome_curva" : "Profundidade vertical do poço em cota",
+		"mnemonico_contratada" : "TVDSS",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 349,
+		"nome_curva" : "Profundidade vertical de retorno",
+		"mnemonico_contratada" : "TVDLAG",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 350,
+		"nome_curva" : "Profundidade vertical de retorno em cota",
+		"mnemonico_contratada" : "VSSLAG",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "m                        "
+	},
+	{
+		"codigo_curva" : 351,
+		"nome_curva" : "Quantidade de metano (Saída menos Entrada)",
+		"mnemonico_contratada" : "C1",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 352,
+		"nome_curva" : "Quantidade de etano (Saída menos Entrada)",
+		"mnemonico_contratada" : "C2",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 353,
+		"nome_curva" : "Quantidade de etano corrigido para eteno (Saída menos Entrada)",
+		"mnemonico_contratada" : "C2C",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 354,
+		"nome_curva" : "Quantidade de eteno (Saída menos Entrada)",
+		"mnemonico_contratada" : "ETHE",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 355,
+		"nome_curva" : "Quantidade de propano (Saída menos Entrada)",
+		"mnemonico_contratada" : "C3",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 356,
+		"nome_curva" : "Quantidade de iso butano (Saída menos Entrada)",
+		"mnemonico_contratada" : "IC4",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 357,
+		"nome_curva" : "Quantidade de normal butano (Saída menos Entrada)",
+		"mnemonico_contratada" : "NC4",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 358,
+		"nome_curva" : "Quantidade de iso pentano (Saída menos Entrada)",
+		"mnemonico_contratada" : "IC5",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 359,
+		"nome_curva" : "Quantidade de normal pentano (Saída menos Entrada)",
+		"mnemonico_contratada" : "NC5",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 360,
+		"nome_curva" : "Quantidade de hexano (Saída menos Entrada)",
+		"mnemonico_contratada" : "C6",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 361,
+		"nome_curva" : "Quantidade de heptano (Saída menos Entrada)",
+		"mnemonico_contratada" : "C7",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 362,
+		"nome_curva" : "Quantidade de octano (Saída menos Entrada)",
+		"mnemonico_contratada" : "C8",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 363,
+		"nome_curva" : "Quantidade de nonano (Saída menos Entrada)",
+		"mnemonico_contratada" : "C9",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 364,
+		"nome_curva" : "Quantidade de decano (Saída menos Entrada)",
+		"mnemonico_contratada" : "C10",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 365,
+		"nome_curva" : "Quantidade de ciclohexano (Saída menos Entrada)",
+		"mnemonico_contratada" : "CH",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 366,
+		"nome_curva" : "Quantidade de metil ciclo hexano (Saída menos Entrada)",
+		"mnemonico_contratada" : "MCH",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 367,
+		"nome_curva" : "Quantidade de benzeno (Saída menos Entrada)",
+		"mnemonico_contratada" : "BZ",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 368,
+		"nome_curva" : "Quantidade de etil benzeno (Saída menos Entrada)",
+		"mnemonico_contratada" : "EBZ",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 369,
+		"nome_curva" : "Quantidade de xileno (Saída menos Entrada)",
+		"mnemonico_contratada" : "XYL",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 370,
+		"nome_curva" : "Quantidade de tolueno (Saída menos Entrada)",
+		"mnemonico_contratada" : "TL",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 371,
+		"nome_curva" : "Quantidade de hélio (Saída menos Entrada)",
+		"mnemonico_contratada" : "HELIUM",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 372,
+		"nome_curva" : "Quantidade de dióxido de carbono (Saída menos Entrada)",
+		"mnemonico_contratada" : "CO2",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 373,
+		"nome_curva" : "Quantidade de ácido acético (Saída menos Entrada)",
+		"mnemonico_contratada" : "ACT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 374,
+		"nome_curva" : "Quantidade de hidrogênio (Saída menos Entrada)",
+		"mnemonico_contratada" : "HYD",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 375,
+		"nome_curva" : "Quantidade de água (Saída menos Entrada)",
+		"mnemonico_contratada" : "H2O",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 376,
+		"nome_curva" : "Quantidade de nitrogênio (Saída menos Entrada)",
+		"mnemonico_contratada" : "NIT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 377,
+		"nome_curva" : "Quantidade de oxigênio (Saída menos Entrada)",
+		"mnemonico_contratada" : "O2",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 378,
+		"nome_curva" : "Quantidade de argônio (Saída menos Entrada)",
+		"mnemonico_contratada" : "ARG",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 379,
+		"nome_curva" : "Quantidade de sulfeto de carbonila (Saída menos Entrada)",
+		"mnemonico_contratada" : "COS",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 380,
+		"nome_curva" : "Quantidade de dióxido de enxofre (Saída menos Entrada)",
+		"mnemonico_contratada" : "SO2",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 381,
+		"nome_curva" : "Quantidade de dissulfeto de carbono (Saída menos Entrada)",
+		"mnemonico_contratada" : "CS2",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 382,
+		"nome_curva" : "Quantidade de sulfeto de hidrogênio (Saída menos Entrada)",
+		"mnemonico_contratada" : "H2S",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 383,
+		"nome_curva" : "Quantidade de metano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "C1EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 384,
+		"nome_curva" : "Quantidade de etano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "C2EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 385,
+		"nome_curva" : "Quantidade de etano corrigido para eteno (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "C2CEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 386,
+		"nome_curva" : "Quantidade de eteno (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "ETHEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 387,
+		"nome_curva" : "Quantidade de propano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "C3EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 388,
+		"nome_curva" : "Quantidade de iso butano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "IC4EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 389,
+		"nome_curva" : "Quantidade de normal butano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "NC4EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 390,
+		"nome_curva" : "Quantidade de iso pentano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "IC5EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 391,
+		"nome_curva" : "Quantidade de normal pentano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "NC5EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 392,
+		"nome_curva" : "Quantidade de hexano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "C6EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 393,
+		"nome_curva" : "Quantidade de heptano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "C7EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 394,
+		"nome_curva" : "Quantidade de octano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "C8EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 395,
+		"nome_curva" : "Quantidade de nonano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "C9EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 396,
+		"nome_curva" : "Quantidade de decano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "C10EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 397,
+		"nome_curva" : "Quantidade de ciclohexano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "CHEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 398,
+		"nome_curva" : "Quantidade de metil ciclo hexano (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "MCHEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 399,
+		"nome_curva" : "Quantidade de benzeno (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "BZEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 400,
+		"nome_curva" : "Quantidade de etil benzeno (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "EBZEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 401,
+		"nome_curva" : "Quantidade de xileno (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "XYLEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 402,
+		"nome_curva" : "Quantidade de tolueno (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "TLEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 403,
+		"nome_curva" : "Quantidade de hélio (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "HELEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 404,
+		"nome_curva" : "Quantidade de dióxido de carbono (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "CO2EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 405,
+		"nome_curva" : "Quantidade de ácido acético (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "ACTEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 406,
+		"nome_curva" : "Quantidade de hidrogênio (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "HYDEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 407,
+		"nome_curva" : "Quantidade de água (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "H2OEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 408,
+		"nome_curva" : "Quantidade de nitrogênio (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "NITEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 409,
+		"nome_curva" : "Quantidade de oxigênio (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "O2EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 410,
+		"nome_curva" : "Quantidade de argônio (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "ARGEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 411,
+		"nome_curva" : "Quantidade de sulfeto de carbonila (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "COSEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 412,
+		"nome_curva" : "Quantidade de dióxido de enxofre (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "SO2EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 413,
+		"nome_curva" : "Quantidade de dissulfeto de carbono (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "CS2EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 414,
+		"nome_curva" : "Quantidade de sulfeto de hidrogênio (aplicado coef. de eficiência da extração)",
+		"mnemonico_contratada" : "H2SEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 415,
+		"nome_curva" : "Temperatura de aquecimento lama (extrator) entrada",
+		"mnemonico_contratada" : "TMPAQIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "degC                     "
+	},
+	{
+		"codigo_curva" : 416,
+		"nome_curva" : "Temperatura de aquecimento lama (extrator) saída",
+		"mnemonico_contratada" : "TMPAQOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "degC                     "
+	},
+	{
+		"codigo_curva" : 417,
+		"nome_curva" : "Pressão na linha de gás entrada",
+		"mnemonico_contratada" : "PGLINEIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "mbar                     "
+	},
+	{
+		"codigo_curva" : 418,
+		"nome_curva" : "Pressão na linha de gás saída",
+		"mnemonico_contratada" : "PGLINEOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "mbar                     "
+	},
+	{
+		"codigo_curva" : 419,
+		"nome_curva" : "Vazão na linha de gás entrada",
+		"mnemonico_contratada" : "QGLINEIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "l\/min                    "
+	},
+	{
+		"codigo_curva" : 420,
+		"nome_curva" : "Vazão na linha de gás saída",
+		"mnemonico_contratada" : "QGLINEOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "l\/min                    "
+	},
+	{
+		"codigo_curva" : 421,
+		"nome_curva" : "Butano (saída menos entrada)",
+		"mnemonico_contratada" : "C4",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 422,
+		"nome_curva" : "Butano EEC",
+		"mnemonico_contratada" : "C4EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 423,
+		"nome_curva" : "Pentano (saída menos entrada)",
+		"mnemonico_contratada" : "C5",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 424,
+		"nome_curva" : "Pentano EEC",
+		"mnemonico_contratada" : "C5EEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 425,
+		"nome_curva" : "Propeno (saída menos entrada)",
+		"mnemonico_contratada" : "PRPE",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 426,
+		"nome_curva" : "Propeno EEC",
+		"mnemonico_contratada" : "PRPEEEC",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 427,
+		"nome_curva" : "ACTCOD - *** Estado da perfuração",
+		"mnemonico_contratada" : "ACTCOD",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : null
+	},
+	{
+		"codigo_curva" : 428,
+		"nome_curva" : "Quantidade de metano (entrada)",
+		"mnemonico_contratada" : "C1IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 429,
+		"nome_curva" : "Quantidade de etano (entrada)",
+		"mnemonico_contratada" : "C2IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 430,
+		"nome_curva" : "Quantidade de etano corrigido para eteno (entrada)",
+		"mnemonico_contratada" : "C2CIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 431,
+		"nome_curva" : "Quantidade de eteno (entrada)",
+		"mnemonico_contratada" : "ETHEIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 432,
+		"nome_curva" : "Quantidade de propano (entrada)",
+		"mnemonico_contratada" : "C3IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 433,
+		"nome_curva" : "Quantidade de iso butano (entrada)",
+		"mnemonico_contratada" : "IC4IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 434,
+		"nome_curva" : "Quantidade de normal butano (entrada)",
+		"mnemonico_contratada" : "NC4IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 435,
+		"nome_curva" : "Quantidade de iso pentano (entrada)",
+		"mnemonico_contratada" : "IC5IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 436,
+		"nome_curva" : "Quantidade de normal pentano (entrada)",
+		"mnemonico_contratada" : "NC5IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 437,
+		"nome_curva" : "Quantidade de hexano (entrada)",
+		"mnemonico_contratada" : "C6IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 438,
+		"nome_curva" : "Quantidade de heptano (entrada)",
+		"mnemonico_contratada" : "C7IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 439,
+		"nome_curva" : "Quantidade de octano (entrada)",
+		"mnemonico_contratada" : "C8IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 440,
+		"nome_curva" : "Quantidade de nonano (entrada)",
+		"mnemonico_contratada" : "C9IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 441,
+		"nome_curva" : "Quantidade de decano (entrada)",
+		"mnemonico_contratada" : "C10IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 442,
+		"nome_curva" : "Quantidade de ciclohexano (entrada)",
+		"mnemonico_contratada" : "CHIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 443,
+		"nome_curva" : "Quantidade de metil ciclo hexano (entrada)",
+		"mnemonico_contratada" : "MCHIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 444,
+		"nome_curva" : "Quantidade de benzeno (entrada)",
+		"mnemonico_contratada" : "BZIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 445,
+		"nome_curva" : "Quantidade de etil benzeno (entrada)",
+		"mnemonico_contratada" : "EBZIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 446,
+		"nome_curva" : "Quantidade de xileno (entrada)",
+		"mnemonico_contratada" : "XYLIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 447,
+		"nome_curva" : "Quantidade de tolueno (entrada)",
+		"mnemonico_contratada" : "TLIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 448,
+		"nome_curva" : "Quantidade de hélio (entrada)",
+		"mnemonico_contratada" : "HELIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 449,
+		"nome_curva" : "Quantidade de dióxido de carbono (entrada)",
+		"mnemonico_contratada" : "CO2IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 450,
+		"nome_curva" : "Quantidade de ácido acético (entrada)",
+		"mnemonico_contratada" : "ACTIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 451,
+		"nome_curva" : "Quantidade de hidrogênio (entrada)",
+		"mnemonico_contratada" : "HYDIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 452,
+		"nome_curva" : "Quantidade de água (entrada)",
+		"mnemonico_contratada" : "H2OIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 453,
+		"nome_curva" : "Quantidade de nitrogênio (entrada)",
+		"mnemonico_contratada" : "NITIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 454,
+		"nome_curva" : "Quantidade de oxigênio (entrada)",
+		"mnemonico_contratada" : "O2IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 455,
+		"nome_curva" : "Quantidade de argônio (entrada)",
+		"mnemonico_contratada" : "ARGIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 456,
+		"nome_curva" : "Quantidade de sulfeto de carbonila (entrada)",
+		"mnemonico_contratada" : "COSIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 457,
+		"nome_curva" : "Quantidade de dióxido de enxofre (entrada)",
+		"mnemonico_contratada" : "SO2IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 458,
+		"nome_curva" : "Quantidade de dissulfeto de carbono (entrada)",
+		"mnemonico_contratada" : "CS2IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 459,
+		"nome_curva" : "Quantidade de sulfeto de hidrogênio (entrada)",
+		"mnemonico_contratada" : "H2SIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 460,
+		"nome_curva" : "Quantidade de metano (saída)",
+		"mnemonico_contratada" : "C1OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 461,
+		"nome_curva" : "Quantidade de etano (saída)",
+		"mnemonico_contratada" : "C2OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 462,
+		"nome_curva" : "Quantidade de etano corrigido para eteno (saída)",
+		"mnemonico_contratada" : "C2COUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 463,
+		"nome_curva" : "Quantidade de eteno (entrada)",
+		"mnemonico_contratada" : "ETHEOT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 464,
+		"nome_curva" : "Quantidade de propano (saída)",
+		"mnemonico_contratada" : "C3OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 465,
+		"nome_curva" : "Quantidade de iso butano (saída)",
+		"mnemonico_contratada" : "IC4OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 466,
+		"nome_curva" : "Quantidade de normal butano (saída)",
+		"mnemonico_contratada" : "NC4OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 467,
+		"nome_curva" : "Quantidade de iso pentano (saída)",
+		"mnemonico_contratada" : "IC5OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 468,
+		"nome_curva" : "Quantidade de normal pentano (saída)",
+		"mnemonico_contratada" : "NC5OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 469,
+		"nome_curva" : "Quantidade de hexano (saída)",
+		"mnemonico_contratada" : "C6OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 470,
+		"nome_curva" : "Quantidade de heptano (saída)",
+		"mnemonico_contratada" : "C7OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 471,
+		"nome_curva" : "Quantidade de octano (saída)",
+		"mnemonico_contratada" : "C8OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 472,
+		"nome_curva" : "Quantidade de nonano (saída)",
+		"mnemonico_contratada" : "C9OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 473,
+		"nome_curva" : "Quantidade de decano (saída)",
+		"mnemonico_contratada" : "C10OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 474,
+		"nome_curva" : "Quantidade de ciclohexano (saída)",
+		"mnemonico_contratada" : "CHOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 475,
+		"nome_curva" : "Quantidade de metil ciclo hexano (saída)",
+		"mnemonico_contratada" : "MCHOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 476,
+		"nome_curva" : "Quantidade de benzeno (saída)",
+		"mnemonico_contratada" : "BZOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 477,
+		"nome_curva" : "Quantidade de etil benzeno (saída)",
+		"mnemonico_contratada" : "EBZOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 478,
+		"nome_curva" : "Quantidade de xileno (saída)",
+		"mnemonico_contratada" : "XYLOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 479,
+		"nome_curva" : "Quantidade de tolueno (saída)",
+		"mnemonico_contratada" : "TLOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 480,
+		"nome_curva" : "Quantidade de hélio (saída)",
+		"mnemonico_contratada" : "HELOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 481,
+		"nome_curva" : "Quantidade de dióxido de carbono (saída)",
+		"mnemonico_contratada" : "CO2OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 482,
+		"nome_curva" : "Quantidade de ácido acético (saída)",
+		"mnemonico_contratada" : "ACTOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 483,
+		"nome_curva" : "Quantidade de hidrogênio (saída)",
+		"mnemonico_contratada" : "HYDOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 484,
+		"nome_curva" : "Quantidade de água (saída)",
+		"mnemonico_contratada" : "H2OOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 485,
+		"nome_curva" : "Quantidade de nitrogênio (saída)",
+		"mnemonico_contratada" : "NITOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 486,
+		"nome_curva" : "Quantidade de oxigênio (saída)",
+		"mnemonico_contratada" : "O2OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 487,
+		"nome_curva" : "Quantidade de argônio (saída)",
+		"mnemonico_contratada" : "ARGOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 488,
+		"nome_curva" : "Quantidade de sulfeto de carbonila (saída)",
+		"mnemonico_contratada" : "COSOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 489,
+		"nome_curva" : "Quantidade de dióxido de enxofre (saída)",
+		"mnemonico_contratada" : "SO2OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 490,
+		"nome_curva" : "Quantidade de dissulfeto de carbono (saída)",
+		"mnemonico_contratada" : "CS2OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 491,
+		"nome_curva" : "Quantidade de sulfeto de hidrogênio (saída)",
+		"mnemonico_contratada" : "H2SOUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 492,
+		"nome_curva" : "Butano entrada",
+		"mnemonico_contratada" : "C4IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 493,
+		"nome_curva" : "Butano saída",
+		"mnemonico_contratada" : "C4OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 494,
+		"nome_curva" : "Pentano entrada",
+		"mnemonico_contratada" : "C5IN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 495,
+		"nome_curva" : "Pentano saída",
+		"mnemonico_contratada" : "C5OUT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 496,
+		"nome_curva" : "Propeno entrada",
+		"mnemonico_contratada" : "PRPEIN",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	},
+	{
+		"codigo_curva" : 497,
+		"nome_curva" : "Propeno saída",
+		"mnemonico_contratada" : "PRPEOT",
+		"valor_nulo" : -999.2500,
+		"codigo_poco" : 172,
+		"well_name" : "1-TES-172",
+		"unidade_medida" : "ppm                      "
+	}
+]

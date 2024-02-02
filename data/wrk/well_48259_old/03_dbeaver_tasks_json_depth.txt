@@ -1,0 +1,9 @@
+				{
+					"type": "databaseTransferProducer",
+					"location": {
+						"type": "query",
+						"project": "General",
+						"dataSource": "postgres-jdbc-175daaebaa0-4022b75c983db151",
+						"query": "with depth_unique_table_name as (select dapp_md_profundidade as DEPTH, dapp_md_valor as VALUE from dado_prof_perf where cvpe_cd_curva=25500145160 and poco_cd_poco=48259) select * from depth_unique_table_name order by depth"
+					}
+				},

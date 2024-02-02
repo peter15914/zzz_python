@@ -1,0 +1,15 @@
+~V
+VERS. 2.0                 :
+WRAP. NO                  :
+# OISTerra Las Export
+~W
+STRT.M         0 : START DEPTH
+STOP.M         0 : STOP DEPTH
+STEP.M         0 : STEP
+NULL.         <null_value> : NULL VALUE
+WELL.         <well_name> : WELL
+UWI.          <well_id> : UNIQUE WELL ID
+~C
+dpt.        : 
+<curve_mnemo>.        : 
+~A
