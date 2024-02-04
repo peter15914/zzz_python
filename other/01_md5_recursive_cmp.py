@@ -73,17 +73,26 @@ def compare_md5_hashes(hashes_file_1, hashes_file_2):
         print("All OK, sets are equal, size is %d" % len(lines_set_2))
         return
 
-    ok = True
     cnt = 0
+    new_in_set1 = 0
+    new_in_set2 = 0
 
     for line in lines_set_1:
         cnt += 1
         if not (line in lines_set_2):
-            print("!!!Error " + line)
-            ok = False
+            new_in_set1 += 1
+            print("{}. !new in set 1: {}".format(new_in_set1, line))
 
-    if ok:
-        print("All OK, compared %d" % cnt)
+    for line in lines_set_2:
+        cnt += 1
+        if not (line in lines_set_1):
+            new_in_set2 += 1
+            print("{}. !new in set 2: {}".format(new_in_set2, line))
+
+    if new_in_set1 + new_in_set2 == 0:
+        print("All OK, compared {}".format(cnt // 2))
+    else:
+        print("{} files equal, {} new files in set 1, {} new files in set 2".format((cnt - new_in_set1 - new_in_set2) // 2, new_in_set1, new_in_set2))
 
 
 def main():
