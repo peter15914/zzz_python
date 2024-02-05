@@ -1,8 +1,9 @@
 # import hashlib
 import os
-# import shutil
+import shutil
 import sys
 import zzzutils
+import uuid
 
 
 def print_help():
@@ -14,15 +15,16 @@ def print_help():
         '       create md5-hashes of all files in directory (recursively)\n'
         '       if filter file is given, only files from filter file are used to create hashes\n'
         '{name} -compare <md5-file for temporary directory> <md5-file for main backup directory>\n'
-        '       compare 2 files with md5-hashes. '
-        'all files in temporary directory must exist in main backup directory\n'
+        '       compare 2 files with md5-hashes\n'
+        '{name} -diffcopy <resfile from -compare> <source directory> <destination directory>\n'
+        '       copy files from source to destination directory, files are filtered by resfile\n'
         .format(name=script_name))
 
 
 def get_files_base_names(file_with_hashes):
     ret = []
     if file_with_hashes:
-        with open(file_with_hashes, "r") as f:
+        with open(file_with_hashes, "r", encoding = 'utf-8') as f:
             for buf_list in [line.rstrip().split('\t') for line in f]:
                 if len(buf_list) > 0:
                     file_name = buf_list[1]
@@ -47,7 +49,7 @@ def create_md5_hashes(path, filter_file=''):
 
 def get_md5_set(file_name, allow_dupes=True):
     ret_lines = set()
-    with open(file_name, "r") as f1:
+    with open(file_name, "r", encoding = 'utf-8') as f1:
         for buf_list in [line.strip().split(None, 1) for line in f1]:
             if len(buf_list) >= 2:
                 res_line = buf_list[0] + "###" + os.path.split(buf_list[-1])[-1]
@@ -95,10 +97,48 @@ def compare_md5_hashes(hashes_file_1, hashes_file_2):
         print("{} files equal, {} new files in set 1, {} new files in set 2".format((cnt - new_in_set1 - new_in_set2) // 2, new_in_set1, new_in_set2))
 
 
+def copy_diff_files(files_list_path, src_dir, dest_dir):
+    if not os.path.exists(src_dir):
+        print("Directory %s doesn't exist" % src_dir)
+        sys.exit()
+
+    if not os.path.exists(dest_dir):
+        print("Directory %s doesn't exist" % dest_dir)
+        sys.exit()
+
+    if not os.path.exists(files_list_path):
+        print("File %s doesn't exist" % files_list_path)
+        sys.exit()
+
+    need_names = set()
+    with open(files_list_path, "r", encoding = 'utf-8') as f1:
+        for buf_list in [line.strip().split("###", 1) for line in f1]:
+            if len(buf_list) == 2:
+                need_names.add(buf_list[1])
+            else:
+                print("Problem in copy_diff_files()" + str(buf_list))
+
+    # print(need_names)
+
+    i = 0
+    for root, dirs, files in os.walk(src_dir):
+        for file_name in files:
+            file_path = os.path.join(root, file_name)
+            if file_name in need_names:
+                print("%03d. %s" % (i, file_path))
+                i += 1
+                try:
+                    shutil.copy(file_path, os.path.join(dest_dir, file_name))
+                except:
+                    new_name = os.path.basename(file_name) + str(uuid.uuid4()) + os.path.splitext(file_name)[-1]
+                    shutil.copy(file_path, os.path.join(dest_dir, new_name))
+
 def main():
     if len(sys.argv) < 3:
         print_help()
         sys.exit()
+
+    sys.stdout.reconfigure(encoding='utf-8')
 
     all_ok = True
     cmd = sys.argv[1]
@@ -110,11 +150,10 @@ def main():
             create_md5_hashes(sys.argv[2], sys.argv[3])
         else:
             all_ok = False
-    elif cmd == "-compare":
-        if len(sys.argv) == 4:
-            compare_md5_hashes(sys.argv[2], sys.argv[3])
-        else:
-            all_ok = False
+    elif cmd == "-compare" and len(sys.argv) == 4:
+        compare_md5_hashes(sys.argv[2], sys.argv[3])
+    elif cmd == "-diffcopy" and len(sys.argv) == 5:
+        copy_diff_files(sys.argv[2], sys.argv[3], sys.argv[4])
     else:
         all_ok = False
 
